@@ -10,7 +10,7 @@
 
 
 
-!\[Agile Certification](Agile\_Certification.png)
+!\[Agile Certification](Agile_Certification.png)
 
 
 
