@@ -2,15 +2,12 @@
 
 
 
-\# Agile Certification
+# Agile Certification
 
 
 
-\## My Agile Methodology Certificate
-
-
+# My Agile Certification
 
 ![Agile Certification](Agile_Certification.png)
-
 
 
