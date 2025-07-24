@@ -6,6 +6,12 @@
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/33925c65-003f-4693-8089-c0bc231e4467"  alt="Agile Certification"/>
 
+<br>
+<br>
+
+<h1>Git Training Certification</h1>
+<p>I am proud to share that I have completed the Git training program from simplelearn platform. The certification proof is provided below for verification:</p>
+![Image](https://github.com/user-attachments/assets/7933f1b6-ac31-4c95-a023-91f599c4dc28)
 
 
 
