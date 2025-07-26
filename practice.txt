@@ -1,3 +1,5 @@
 Dummy change 1
 this rebase feature
+this rebase feature
+this is a new feature
 
