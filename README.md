@@ -15,4 +15,10 @@
 <img width="1920" height="1080" src="https://github.com/user-attachments/assets/7933f1b6-ac31-4c95-a023-91f599c4dc28"  alt="Git Certification"/>
 
 
+<br>
+<br>
 
+<h1>Linux Command Practice</h1>
+<p>Below is a screenshot of my practiced commands saved in <code>my_history.txt</code>:</p>
+
+<img src="LINUX/Command Pratice Screenshot 1.png" alt="Linux Command History Screenshot" width="100%"/>
