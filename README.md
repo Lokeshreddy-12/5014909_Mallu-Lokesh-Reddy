@@ -19,6 +19,6 @@
 <br>
 
 <h1>Linux Command Practice</h1>
-<p>Below is a screenshot of my practiced commands saved in <code>my_history.txt</code>:</p>
+<p>Below is one of the screenshot of my practiced commands </p>
 
-<img src="LINUX/Command Pratice Screenshot 1.png" alt="Linux Command History Screenshot" width="100%"/>
+<img src="LINUX/Day2 Practice Screenshot 1.png" alt="Linux Command History Screenshot" width="100%"/>
