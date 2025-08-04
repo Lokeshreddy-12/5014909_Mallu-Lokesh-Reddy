@@ -22,3 +22,11 @@
 <p>Below is one of the screenshot of my practiced commands </p>
 
 <img src="LINUX/Day2 Practice Screenshot 1.png" alt="Linux Command History Screenshot" width="100%"/>
+
+
+<br>
+<br>
+<h1>Basics of C</h1>
+<p>Below are Introduction to C and C Intermediate certifications from sololearn.</p>
+<img src="C/Introduction to C Certificate.jpg" alt="Introduction to C" width="100%"/>
+<img src="C/C Intermediate Certificate.jpg" alt="C Intermediate" width="100%"/>
